@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LibraryTest
+﻿namespace LibraryTest
 {
     public class Class1
     {
